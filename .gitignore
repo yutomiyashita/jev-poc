@@ -1,0 +1,7 @@
+.agents/
+__pycache__/
+.venv/
+.env
+private/
+*.eml
+results*.json
