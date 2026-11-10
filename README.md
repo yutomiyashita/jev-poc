@@ -1,4 +1,4 @@
-# Jev PoC：QuickStartとメール緊急性分類CLI
+# Jev PoC：公式QuickStartとデモ（メール緊急性分類CLI）
 
 Jevに興味を持ち、「まず動かしたい」「自分のソフトウェアでどう使うか知りたい」という人に向けた、小さなPythonのサンプル集です。
 
